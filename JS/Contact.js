@@ -66,4 +66,4 @@ class Contact {
             + this.address + ' City : ' + this.city + ' State : ' + this.state + ' Zip : ' + this.zip +
             ' Phone Number : ' + this.phoneNumber + ' ]';
     }
-}
+}   
