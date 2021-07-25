@@ -67,3 +67,4 @@ class Contact {
             ' Phone Number : ' + this.phoneNumber + ' ]';
     }
 }      
+
